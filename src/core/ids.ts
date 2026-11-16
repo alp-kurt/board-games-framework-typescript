@@ -1,0 +1,10 @@
+export type EntityId = string;
+export type PlayerId = string;
+export type ZoneId = string;
+export type ResourceId = string;
+export type NodeId = string;
+export type TileId = string;
+export type PoolId = string;
+export type TrackId = string;
+export type RoleId = string;
+export type WorkerId = string;
